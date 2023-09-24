@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lr1_beer</string>
+    <string name="tx_main_info">time to beer</string>
+    <string name="btn_start">start</string>
+    <string-array name="sp_beer_color">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Amber</item>
+        <item>Brown</item>
+    </string-array>
+</resources>
